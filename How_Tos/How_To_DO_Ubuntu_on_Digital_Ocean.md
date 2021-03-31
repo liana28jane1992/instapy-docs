@@ -34,6 +34,7 @@ $ sudo rm google-chrome-stable_current_amd64.deb
 
 ```sh
 $ sudo apt-get install firefox
+$ sudo apt install firefox-geckodriver
 ```
 
 ### InstaPy
